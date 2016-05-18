@@ -16,10 +16,10 @@ It is also stickler for errors, so if you miss one character or add an extra spa
 
 6.rm = remove - removes files rm my new folder
 
-7. rm -r removes the directory removes the directory/folder and its contents
+7.rm -r removes the directory removes the directory/folder and its contents
 
 8.mv =moves or renames whatever you ask it to rename. ie "my new folder" to "my new folders"
 
-9. open - open files i.e open "file.html" will open in a browser
+9.open - open files i.e open "file.html" will open in a browser
 
-10. cp- copying a file to wherever you want it to go.
+10.cp- copying a file to wherever you want it to go.
